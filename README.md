@@ -7,7 +7,7 @@ adalah sebuah project api senderhana yang digunakan khusus untuk mengelola bioda
 berikut endpoint yang bisa di gunakan
 
 | Method | endpoint | keterangan |
-| -------- | :----: | ----: |
+| -------- | :----: | ---- |
 | GET | `/users` | mendapatkan semua data yang ada |
 | POST | `/users` | menambahkan data |
 | PUT | `/users/:id` | mengubah data sesuai id |
